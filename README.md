@@ -1,6 +1,6 @@
 # Learning Path Platform
 
-A platform for personalized learning paths using FastAPI, Streamlit, AWS Lambda, and Aurora MySQL.
+A platform with AI & ML based personalized learning paths using FastAPI, Streamlit, AWS Lambda, and Aurora MySQL.
 
 ## Structure
 - `backend/`: FastAPI backend
